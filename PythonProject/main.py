@@ -10,7 +10,7 @@ from aiogram.fsm.state import State, StatesGroup
 
 # ============= ВСТАВЬ СВОИ ДАННЫЕ ЗДЕСЬ =============
 BOT_TOKEN = "8874682296:AAELInLbRLVDhQ_BgzpVUWc9rOELLMtZt6Y"  # ← Свой токен
-ADMIN_CHAT_ID = -1004342858165  # ← Свой ID админ-чата (с минусом если группа)
+ADMIN_CHAT_ID = 7572622307  # ← Свой ID админ-чата (с минусом если группа)
 # ===================================================
 
 logging.basicConfig(level=logging.INFO)
