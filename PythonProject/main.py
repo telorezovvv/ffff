@@ -9,8 +9,8 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
 # ============= ВСТАВЬ СВОИ ДАННЫЕ ЗДЕСЬ =============
-BOT_TOKEN = "7282973487:AAHdjsahdjkashdjkashdjk"  # ← Свой токен
-ADMIN_CHAT_ID = -1001234567890  # ← Свой ID админ-чата (с минусом если группа)
+BOT_TOKEN = "8874682296:AAELInLbRLVDhQ_BgzpVUWc9rOELLMtZt6Y"  # ← Свой токен
+ADMIN_CHAT_ID = -1004342858165  # ← Свой ID админ-чата (с минусом если группа)
 # ===================================================
 
 logging.basicConfig(level=logging.INFO)
